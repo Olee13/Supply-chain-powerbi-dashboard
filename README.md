@@ -1,13 +1,11 @@
 # Supply-chain-powerbi-dashboard
  Power BI dashboard showing supplier and product KPIs
-# 📊 Supplier Insights Dashboard
+# Supplier Insights Dashboard
 
 This document presents the **Supplier Insights** report, summarising supplier performance, spend distribution, and key metrics.  
-The visuals below are screenshots from the dashboard for clear presentation.
-
 ---
 
-## 1️⃣ Overview
+ **Overview**
 The Supplier Insights dashboard is designed to help stakeholders:
 - Identify **top suppliers by spend**
 - Track **monthly trends**
@@ -16,7 +14,7 @@ The Supplier Insights dashboard is designed to help stakeholders:
 
 ---
 
-## 2️⃣ Key Metrics
+## Key Metrics
 - **Total Revenue:** `577.6K`
 - **Total Costs:** `58k`
 - **Total Products Sold:** `46 099`
@@ -24,39 +22,37 @@ The Supplier Insights dashboard is designed to help stakeholders:
 
 ---
 
-## 3️⃣ Visuals
+## Visuals
 
-### Supplier Spend Distribution
-![Supplier Spend Distribution](./images/supplier_spend_distribution.png)
+### Overview
+![Overview](https://github.com/Olee13/Supply-chain-powerbi-dashboard/blob/main/Overview.png)
 
-### Monthly Supplier Spend Trends
-![Monthly Trends](./images/monthly_trends.png)
+### Supplier Insights
+![Supplier Insights](https://github.com/Olee13/Supply-chain-powerbi-dashboard/blob/main/Supplier%20Insights.png)
 
-### Top 10 Suppliers by Spend
-![Top 10 Suppliers](./images/top_10_suppliers.png)
-
----
-
-## 4️⃣ Insights Summary
-1. **Spend Concentration:** Top 3 suppliers make up **X%** of total spend.
-2. **Seasonal Peaks:** Noticeable spikes in **[Month(s)]** due to increased procurement activity.
-3. **Category Focus:** `CATEGORY NAME` dominates spend, indicating potential for contract negotiations.
+### Product Insights
+![Product Insights](https://github.com/Olee13/Supply-chain-powerbi-dashboard/blob/main/Product%20Insights.png)
 
 ---
 
-## 5️⃣ Recommendations
+## Insights Summary
+1. **Supplier Insights:** Top supplier makes up **15.5K** of total spend.
+2. **Product Insights:** Product Category **Cosmetics** has the highest average profit margin.
+3. **Product Defects by Shipping Mode** to identify the shipping mode with the most product defects.
+
+---
+
+## Recommendations
 - **Diversify supplier base** to reduce dependency risk.
 - **Negotiate volume discounts** with top suppliers.
-- **Investigate seasonal peaks** to identify demand drivers.
 
----
 
-## 6️⃣ Next Steps
+##  Next Steps
 - Schedule quarterly reviews of supplier performance.
 - Integrate this dashboard into the **procurement decision-making process**.
 - Expand analysis to include **supplier delivery performance**.
 
 ---
 
-📅 **Last Updated:** `YYYY-MM-DD`  
-📌 **Author:** `Your Name`  
+📅 **Last Updated:** `2025-07-31`  
+📌 **Author:** `Olwethu Nxasana`  
